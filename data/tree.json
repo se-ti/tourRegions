@@ -1,1 +1,328 @@
-../../passes/kml/tree.json
+[
+	{
+		"title":"Алтай",
+		"featureId":null,
+		"subRegions":[{
+				"featureId":1007,
+				"comment":"Монгольский Алтай",
+				"subFeatureIds":[1023]
+			}
+		],
+		"subFeatureIds":[1001,1002,1003,1004,1005,1006,1007,1008,1009,1010,1011,1012,1013,1014,1015,1016,1017,1018,1019,1020,1021,1022]
+	},
+	{
+		"title":"Кавказ",
+		"featureId":null,
+		"subRegions": [{
+			   "title":"Центральный Кавказ",
+			   "featureId":null,
+			   "subRegions":[],
+			   "subFeatureIds":[1024,1025,1026,1027,1028,1029,1030,1031,1032,1033,1034,1035,1036,1037,1038,1066]
+		   },
+		   {
+			   "title":"Восточный Кавказ",
+			   "featureId":null,
+			   "subRegions":[],
+			   "subFeatureIds":[1039,1040,1041,1042,1043,1044,1045,1059,1078,1079,1080,1089,1090,1091,1092,1093,1094,1095,1096,1097]
+		   },
+		   {
+			   "title":"Западный Кавказ",
+			   "featureId":null,
+			   "subRegions":[{
+					   "comment":"Гвандра",
+					   "featureId":1060,
+					   "subRegions":[],
+					   "subFeatureIds":[1061,1062,1063,1064]
+				   },
+				   {
+					   "comment":"Теберда-Чхалта",
+					   "featureId":1071,
+					   "subRegions":[],
+					   "subFeatureIds":[1072,1073,1074,1075,1076,1077]
+				   },
+				   {
+					   "comment":"Архыз",
+					   "featureId":1081,
+					   "subRegions":[],
+					   "subFeatureIds":[1082,1083,1088]
+				   },
+				   {
+					   "comment":"Красная Поляна",
+					   "featureId":1085,
+					   "subRegions":[],
+					   "subFeatureIds":[]
+				   },
+				   {
+					   "comment":"Бол. Лаба, Псху",
+					   "featureId":1086,
+					   "subRegions":[],
+					   "subFeatureIds":[1087]
+				   }
+			   ],
+			   "subFeatureIds":[1065,1067,1068,1069,1070,1084]
+		   },
+		   {
+			   "title":"Малый Кавказ и Армянское нагорье",
+			   "featureId":null,
+			   "subRegions":[{
+					"comment":"Понтийские горы",
+					   "featureId":1054,
+					   "subRegions":[],
+					   "subFeatureIds":[1055]
+				   }
+			   ],
+			   "subFeatureIds":[1046,1047,1048,1049,1050,1051,1052,1053,1056,1057,1058]
+		   }
+	
+		]
+	},
+
+	{
+		"title":"Тянь-Шань",
+		"featureId":null,
+		"subRegions":[{
+			   "title":"Центральный Тянь-Шань",
+			   "comment":"",
+			   "featureId":null,
+			   "subRegions":[{
+				   "title":"",
+				   "comment":"Зап. Терскей",
+				   "featureId":1122,
+				   "subRegions":[],
+				   "subFeatureIds":[1124,1125,1127]
+			   }],
+			   "subFeatureIds":[1104,1105,1106,1107,1108,1109,1110,1113,1114,1115,1117,1120,1121,1123,1126,1128]
+		   },
+		   {
+			   "title":"Западный Тянь-Шань",
+			   "comment":"",
+			   "featureId":null,
+			   "subRegions":[{
+				   "comment":"Кержантау",
+				   "featureId":1141,
+				   "subRegions":[],
+				   "subFeatureIds":[1142]
+			   }],
+			   "subFeatureIds":[1133,1134,1135,1136,1137,1138,1139,1140,1143,1144,1145]
+		   },
+		   {
+			   "title":"Восточный Тянь-Шань",
+			   "comment":"",
+			   "featureId":null,
+			   "subRegions":[{
+				   "comment":"Сарыджаз",
+				   "featureId":1101,
+				   "subRegions":[],
+				   "subFeatureIds":[1102]
+			   },
+			   {
+				   "comment":"Кокшаал-Тоо",
+				   "featureId":1116,
+				   "subRegions":[],
+				   "subFeatureIds":[1118]
+			   }],
+			   "subFeatureIds":[1098,1099,1100,1101,1103,1119]
+		   },
+		   {
+			   "title":"Джунгарский Алатау",
+			   "comment":"",
+			   "featureId":null,
+			   "subRegions":[],
+			   "subFeatureIds":[1146,1147,1148,1149]
+		   },
+		   {
+			   "title":"Заилийский Алатау и Кюнгей",
+			   "comment":"",
+			   "featureId":null,
+			   "subRegions":[{
+				   "comment":"Кюнгей",
+				   "featureId":1129,
+				   "subRegions":[],
+				   "subFeatureIds":[1130]
+			   }],
+			   "subFeatureIds":[1131]
+		   },
+		   {
+			   "title":"Киргизский хребет, Джумголтау и Карамойнок",
+			   "comment":"",
+			   "featureId":null,
+			   "subRegions":[],
+			   "subFeatureIds":[1111,1112,1132]
+		   }
+   
+		]	
+	},
+
+	{
+	    "title":"Байкал и Забайкалье",
+	    "featureId":null,
+		"subRegions":[{
+		   "comment":"Северо-Муйский и Муяканский",
+		   "featureId":1243,
+		   "subRegions":[],
+		   "subFeatureIds":[1245]
+	    }],
+		"subFeatureIds":[1230,1231,1233,1235,1236,1237,1244,1247,1248]
+	},
+	{
+		"title":"Саяны",
+		"featureId":null,
+		"subFeatureIds":[1229,1232,1234,1238,1239,1240,1241,1242,1246,1249,1250,1251]
+	},
+	{
+		"title":"Центральная Сибирь",
+		"featureId":null,
+		"subFeatureIds":[1252,1253,1254]
+	},
+	{
+		"title":"Восточная Сибирь, Камчатка и Дальний Восток",
+		"featureId":null,
+		"subRegions":[{
+			   "comment":"Верхоянский хребет",
+			   "featureId":1150,
+			   "subRegions":[],
+			   "subFeatureIds":[1151,1152,1153]
+		   },
+		   {
+			   "comment":"хр. Черского",
+			   "featureId":1161,
+			   "subRegions":[],
+			   "subFeatureIds":[1162]
+		   },
+		   {
+			   "comment":"Камчатка",
+			   "featureId":1155,
+			   "subRegions":[],
+			   "subFeatureIds":[1166,1167,1168]
+		   }
+		],
+		"subFeatureIds":[1154,1155,1156,1157,1158,1159,1160,1163,1164,1165]
+	},
+		
+	{
+		"title":"Памиро-Алай",
+		"featureId":null,
+		"subRegions":[{
+			"comment":"запад Зеравшанского хр.",
+			"featureId":1187,
+			"subRegions":[{
+				"comment":"Фаны",
+				"featureId":1189,
+				"subRegions":[],
+				"subFeatureIds":[1190]
+			}],
+			"subFeatureIds":[]
+		}],
+		"subFeatureIds":[1169,1170,1171,1172,1173,1174,1175,1176,1177,1178,1179,1180,1181,1182,1183,1184,1185,1186,1188,1191]
+	},
+
+	{
+		"title":"Памир",
+		"featureId":null,
+		"subRegions":[{
+			   "comment":"Дарвазский",
+			   "featureId":1194,
+			   "subRegions":[],
+			   "subFeatureIds":[1198,1204,1214]
+		   },
+		   {
+			   "comment":"Зулумарт",
+			   "featureId":1205,
+			   "subRegions":[],
+			   "subFeatureIds":[1206,1207,1208,1209,1217]
+		   },
+		   {
+			   "comment":"Музкол",
+			   "featureId":1210,
+			   "subRegions":[],
+			   "subFeatureIds":[1211,1212,1213]
+		   },
+		   {
+			   "comment":"хр. Петра Первого",
+			   "featureId":1215,
+			   "subRegions":[],
+			   "subFeatureIds":[1216]
+		   },
+		   {
+			   "comment":"Северный Танымас",
+			   "featureId":1218,
+			   "subRegions":[],
+			   "subFeatureIds":[1219,1220]
+		   },
+		   {
+			   "comment":"Академии Наук",
+			   "featureId":1202,
+			   "subRegions":[],
+			   "subFeatureIds":[1221,1222]
+		   },
+		   {
+			   "comment":"Язгулемский",
+			   "featureId":1226,
+			   "subRegions":[],
+			   "subFeatureIds":[1227,1228]
+		   }
+		],
+		"subFeatureIds":[1192,1193,1195,1196,1197,1199,1200,1201,1203,1215,1223,1224,1225]
+	},
+	{
+		"title":"Урал","featureId":null,
+		"subRegions":[{
+		   "comment":"Полярный Урал",
+		   "featureId":1255,
+		   "subRegions":[],
+		   "subFeatureIds":[1256]
+		}],
+		"subFeatureIds":[1257,1258,1259,1260,1261,1262]
+	},   
+	{
+		"title":"Крым",
+		"comment":"",
+		"featureId":null,
+		"subRegions":[],
+		"subFeatureIds":[1263,1264,1265,1266,1267,1268,1269,1270,1271,1272]
+	},
+	{
+		"title":"Кольский полуостров",
+		"featureId":null,
+		"subRegions":[],
+		"subFeatureIds":[1274,1275,1276,1277,1278,1279,1280,1281,1282,1283,1284,1285,1286,1287,1288,1289,1290]
+	},
+	{
+		"title":"Аладаглар",
+		"featureId":1273,
+		"subRegions":[],
+		"subFeatureIds":[]
+	},
+	{
+		"title":"Гималаи",
+		"subRegions":[],
+		"subFeatureIds":[1298,1299]
+	},
+	{
+		"title":"Каракорум",
+		"subRegions":[],
+		"subFeatureIds":[1301]
+	},
+	{
+		"title":"Тибет",
+		"subRegions":[{
+			"comment":"Центральный Тибет",
+			"featureId":1295,
+			"subRegions":[],
+			"subFeatureIds":[1296]
+		}],
+		"subFeatureIds":[1294]
+	},
+	{
+		"comment":"Западный Кунь-Лунь",
+		"featureId":1297,
+		"subRegions":[],
+		"subFeatureIds":[]
+	},
+	{
+		"title":"Ладакх",
+		"featureId":1300,
+		"subRegions":[],
+		"subFeatureIds":[]
+	}
+]
