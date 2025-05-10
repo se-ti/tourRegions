@@ -1,0 +1,14 @@
+{
+    "data": ["data/altay.geojson",
+	"data/caucasus.geojson",
+	"data/ectsh.geojson",
+	"data/fareast.geojson",
+	"data/himalaya.geojson",
+	"data/other.geojson",
+	"data/pamal.geojson",
+	"data/pamir.geojson",
+	"data/siberia.geojson",
+	"data/ural.geojson"
+    ],
+    "tree":"data/tree.json"
+}
